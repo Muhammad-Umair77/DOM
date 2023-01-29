@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1,p{
+    text-align: center;
+    margin-top: 40px;
+    color: aliceblue;
+
+
+}
+#container-1{
+    
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(16,45,6,1) 50%, rgba(252,176,69,1) 100%);
+    
+    width: 70%px;
+    text-align: center  ;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px auto 0px auto;
+}
+
+#container-2{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(39,31,51,1) 1%, rgba(2,27,223,1) 94%, rgba(252,176,69,1) 100%);
+    
+    width: 70%px;
+    text-align: center  ;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px auto 0px auto;
+}
+#average{
+
+    width: 70%px;
+    text-align: center  ;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 15px auto 0px auto;
+}
+
+.input-div{
+    display: inline-block;
+}
+.input{
+    padding: 5px 10px  ;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    width: 200px;
+    text-align: center;
+    border-radius: 10px;
+}
+.button{
+    color:   blue;
+     background-color: white; 
+     border-radius: 20px; 
+     margin-top: 20px;
+     font-size: 20px;
+     
+
+}
+.button:hover{
+    color: white;
+    background-color: blue;
+    font-size: 30px;
+
+
+}
